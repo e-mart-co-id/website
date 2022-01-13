@@ -1,0 +1,6 @@
+{
+    "require": {
+        "seunmatt/codeigniter-log-viewer": "^1.1",
+      "ext-json": "*"
+    }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Stripe Recurring",
+  "icon": "icon.png",
+  "description": "Pay subscription automatically using credit card, debit card...",
+  "required": 0,
+  "version_code": 2,
+  "version_name": "1.0.0",
+  "order": 36,
+  "requirements": [],
+  "install_path": "",
+  "upgrade_path": "",
+  "channel": "payment"
+}

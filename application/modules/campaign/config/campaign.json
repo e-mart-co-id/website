@@ -1,0 +1,13 @@
+{
+  "name": "Campaigns Module",
+  "icon": "icon.jpg",
+  "description": "",
+  "required": 1,
+  "version_code": 28,
+  "version_name": "2.0.1",
+  "order": 7,
+  "install_path": "",
+  "requirements": [],
+  "upgrade_path": "",
+  "help": "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+}

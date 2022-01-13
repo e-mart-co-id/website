@@ -1,0 +1,96 @@
+.skin-custom-sf .slimScrollBar{
+    background: #5e6170;
+}
+
+.skin-custom-sf .sidebar li:not(.previous) a{
+    color: #5e6170 !important;
+}
+
+.skin-custom-sf .sidebar li:not(.previous) a:hover{
+    color: #000000 !important;;
+}
+
+.skin-custom-sf.fixed .main-header {
+    border-bottom: 1px solid #ededed;
+    box-shadow: 1px 1px 7px 1px #eaeaea;
+}
+.skin-custom-sf .main-header .logo{
+    background-color: #FFFFFF !important;
+    color: #5e6170 !important;
+}
+
+
+.admin_v1.skin-custom-sf .sidebar-menu .header.menu-search input{
+    border-radius: 5px;
+    border: 1px solid lightgray;
+}
+
+.skin-custom-sf .sidebar-menu li.header{
+    padding: 10px 15px 10px 15px !important;
+}
+
+.skin-custom-sf .sidebar-menu > li.previous{
+    color: #5e6170 !important;
+    background: #FFFFFF !important;
+}
+
+.skin-custom-sf .sidebar-menu > li.previous a,
+.skin-custom-sf .sidebar-menu > li.previous a:hover{
+    background: #ffffff !important;
+    border-left: 5px solid transparent;
+}
+
+.skin-custom-sf .sidebar-menu > li.previous a,
+.skin-custom-sf .sidebar-menu > li.previous a:hover{
+    color: #2fa3e6 !important;
+}
+
+
+.skin-custom-sf .wrapper, .skin-custom-sf .main-sidebar, .skin-custom-sf .left-side{
+    background-color: #FFFFFF !important;
+}
+
+.skin-custom-sf .sidebar-menu > li.header{
+    color: #5e6170 !important;
+    background: #FFFFFF !important;
+}
+
+.skin-custom-sf .sidebar-menu > li:hover > a, .skin-custom-sf .sidebar-menu > li.active > a{
+    background: #FFFFFF !important;
+    color: #000000;
+}
+
+
+.skin-custom-sf .sidebar-menu > li > .treeview-menu{
+    background: #FFFFFF !important;
+    color: #000000 !important;
+}
+
+
+.skin-custom-sf .sidebar-menu li.fill-header{
+    color: #9e9c9c !important;
+}
+
+.skin-custom-sf .sidebar-menu > li > a,
+.skin-custom-sf .sidebar-menu > li > a:hover{
+    border-left: 5px solid transparent;
+}
+
+.skin-custom-sf .sidebar-menu > li.treeview.active > a{
+    border-left: 5px solid #2fa3e6;
+    color: #000000 !important;
+}
+
+.skin-custom-sf .sidebar-menu > li.treeview.active > a:hover{
+    border-left: 5px solid #2fa3e6;
+}
+
+.skin-custom-sf .sidebar-menu > li > .treeview-menu{
+    border-left: 5px solid #2fa3e6;
+}
+
+.skin-custom-sf .sidebar-menu > li.active > .treeview-menu{
+    border-left: 5px solid #2fa3e6;
+}
+
+
