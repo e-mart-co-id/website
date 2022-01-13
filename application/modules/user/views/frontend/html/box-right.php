@@ -8,9 +8,9 @@
         </p>-->
     </div>
 
-    <div class="transparent">
+    <!--<div class="transparent">
 
-    </div>
+    </div>-->
 
     <div class="cover custom-bg" style="background-image: url(<?=TemplateManager::assets("user",'images/custom_bg.jpg')?>)">
 
